@@ -49,3 +49,12 @@ h3 {
     flex-direction: row;
   }
 }
+
+main img {
+  width: 100%;
+}
+/* img {
+  width: 100%;
+}
+ */
+
