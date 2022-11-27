@@ -37,17 +37,13 @@ h3 {
   flex: 2;
 }
 
+/* Groups & Items  (Desktop) */
 @media all and (min-width: 800px) {
   section,
   h1 {
     padding: 0 10%;
   }
-
   .group {
-    display: flex;
     flex-direction: row;
-    margin-bottom: 100px;
   }
 }
-
-
